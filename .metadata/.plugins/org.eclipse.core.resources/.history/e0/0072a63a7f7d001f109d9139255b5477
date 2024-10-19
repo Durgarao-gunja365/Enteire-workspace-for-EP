@@ -1,0 +1,17 @@
+<HTML xmlns:h="http://java.sun.com/jsf/html">
+<HEAD>
+<TITLE>
+jsf table
+</TITLE>
+</HEAD>
+<body>
+
+<h3>Student details</h3>
+<h:form>
+<h:dataTable  value="#{studentdata.list}" var="row">
+
+
+</h:dataTable>
+</h:form>
+</body>
+</HTML>

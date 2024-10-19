@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/gunja/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+  <path value="C:/Users/gunja/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.14/jboss-jsf-api_2.2_spec-2.2.14.jar"/>
+  <path value="C:/Users/gunja/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="/JSFApp/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="JSFApp"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="12" name="%0" offset="179" path="%1"/>
+   <linked-el length="12" name="%0" offset="116" path="%1"/>
+   <linked-el length="22" name="%0" offset="212" path="%1"/>
+   <linked-el length="16" name="%0" offset="274" path="%1"/>
+   <linked-el length="12" name="%2" offset="179" path="%1"/>
+   <linked-el length="12" name="%2" offset="116" path="%1"/>
+   <linked-el length="22" name="%2" offset="212" path="%1"/>
+   <linked-el length="16" name="%2" offset="274" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/JSFApp/src/main/webapp/index.xhtml" value="%1"/>
+  <alias path="/JSFApp/src/main/java/com/klu/JSFApp/Claculator.java" value="%0"/>
+  <alias path="clac" value="%2"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

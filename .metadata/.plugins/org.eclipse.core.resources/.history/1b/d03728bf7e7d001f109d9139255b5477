@@ -1,0 +1,12 @@
+<HTML xmlns:h="http://java.sun.com/jsf/html">
+<HEAD>
+<TITLE>
+jsf table
+</TITLE>
+</HEAD>
+<body>
+
+<h3>Student details</h3>
+<h:form>
+</body>
+</HTML>
